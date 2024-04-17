@@ -1,6 +1,6 @@
 # Hi! I'm Kat 👋
 
-I'm Kat, a data analyst with a passion for coding and a love for nature. I have a Master's degree and certifications in Python Development and Full-Stack Web Development. I enjoy using technology to solve problems and create meaningful solutions.
+I'm a data analyst with a passion for coding and a love for education. I have a Master's degree and certifications in Python Development and Full-Stack Web Development. I enjoy using technology to solve problems and create meaningful solutions.
 
 ## Technologies I Work With:
 
