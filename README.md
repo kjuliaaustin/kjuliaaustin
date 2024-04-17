@@ -4,9 +4,9 @@ I'm Kat, a data analyst with a passion for coding and a love for nature. I have 
 
 ## Technologies I Work With:
 
-<div style="display: inline-block; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30" style="margin-right: 10px;">
-  <span style="font-weight: bold; color: #3776ab;">Python</span>
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #3776ab; color: white;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">Python</span>
 </div>
 
 <div style="display: inline-block; margin-bottom: 10px;">
