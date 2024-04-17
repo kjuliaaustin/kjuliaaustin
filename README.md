@@ -4,39 +4,49 @@ I'm Kat, a data analyst with a passion for coding and a love for nature. I have 
 
 ## Technologies I Work With:
 
-<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #3670a0; color: white;">
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #3776ab; color: white;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="20" style="margin-right: 5px;">
   <span style="font-weight: bold;">Python</span>
 </div>
 
-<div style="display: inline-block; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQL" height="30" style="margin-right: 10px;">
-  <span style="font-weight: bold; color: #ff5733;">SQL</span>
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #ff5733; color: white;">
+  <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">NumPy</span>
 </div>
 
-<div style="display: inline-block; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" height="30" style="margin-right: 10px;">
-  <span style="font-weight: bold; color: #217346;">Excel</span>
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #11557c; color: white;">
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">Matplotlib</span>
 </div>
 
-<div style="display: inline-block; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Power-query-logo.svg" alt="Power Query" height="30" style="margin-right: 10px;">
-  <span style="font-weight: bold; color: #2f5597;">Power Query</span>
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #f37626; color: white;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">Jupyter</span>
 </div>
 
-<div style="display: inline-block; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Tableau_Logo.svg" alt="Tableau" height="30" style="margin-right: 10px;">
-  <span style="font-weight: bold; color: #e97627;">Tableau</span>
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #44a5e5; color: white;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Anaconda_Logo.png" alt="Anaconda" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">Anaconda</span>
 </div>
 
-<div style="display: inline-block; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML/CSS" height="30" style="margin-right: 10px;">
-  <span style="font-weight: bold; color: #e44d26;">HTML/CSS</span>
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #217346; color: white;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">Microsoft Excel</span>
 </div>
 
-<div style="display: inline-block; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="30" style="margin-right: 10px;">
-  <span style="font-weight: bold; color: #f7df1e;">JavaScript</span>
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #f2c311; color: white;">
+  <img src="https://powerbi.microsoft.com/pictures/application/logos/powerbi-96x96.png" alt="PowerBI" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">PowerBI</span>
+</div>
+
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #cc2927; color: white;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Microsoft_SQL_Server_logo.svg" alt="SQL Server" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">SQL Server</span>
+</div>
+
+<div style="display: inline-block; margin-bottom: 10px; padding: 5px; border-radius: 5px; background-color: #00758f; color: white;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MySQL.png" alt="MySQL" height="20" style="margin-right: 5px;">
+  <span style="font-weight: bold;">MySQL</span>
 </div>
 
 ## My Projects:
