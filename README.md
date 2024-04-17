@@ -5,9 +5,9 @@ I'm a data analyst with a passion for coding and a love for education. I have a 
 ## Technologies I Work With:
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![SQL Server](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=2f2f2f)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-[![MySQL](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![VBA](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=107c41)](https://www.microsoft.com/en-us/microsoft-365/excel/)
+[![SQL Server](https://img.shields.io/badge/SQL Server-2f2f2f?style=for-the-badge&logo=python&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![VBA](https://img.shields.io/badge/VBA-3670A0?style=for-the-badge&logo=python&logoColor=107c41)](https://www.microsoft.com/en-us/microsoft-365/excel/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
