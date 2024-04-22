@@ -5,7 +5,7 @@ I'm a data analyst with a passion for coding and a love for education. I have a 
 ## Technologies I Work With:
 
 [![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-%23f25022.svg?style=for-the-badge&logo=#CC2927r&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-%23f25022.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![MySQL](https://img.shields.io/badge/MySQL-%23f29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![VBA](https://img.shields.io/badge/VBA-%23217346?style=for-the-badge&logo=vba&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
