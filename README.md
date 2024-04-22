@@ -5,7 +5,7 @@ I'm a data analyst with a passion for coding and a love for education. I have a 
 ## Technologies I Work With:
 
 [![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-%23f25022.svg?style=for-the-badge&logo=sqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-%23f25022.svg?style=for-the-badge&logo=#CC2927r&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![MySQL](https://img.shields.io/badge/MySQL-%23f29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![VBA](https://img.shields.io/badge/VBA-%23217346?style=for-the-badge&logo=vba&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -17,7 +17,7 @@ I'm a data analyst with a passion for coding and a love for education. I have a 
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## My Projects:
 
