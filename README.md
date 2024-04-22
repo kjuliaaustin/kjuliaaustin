@@ -29,5 +29,6 @@ I'm a data analyst with a passion for coding and a love for education. I have a 
 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
 - Portfolio: [Your Portfolio Website](link-to-portfolio)
+- Email: [Your Email](link-to-email)
 
 Feel free to reach out if you'd like to collaborate or chat about data, coding, or anything in between! 😊
