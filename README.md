@@ -18,6 +18,7 @@ I'm a data analyst with a passion for coding and a love for education. I have a 
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Tableau](https://img.shields.io/badge/tableau-%23224680?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/discover)
+[![Google Colaboratory](https://img.shields.io/badge/googlecolab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## My Projects:
