@@ -23,9 +23,9 @@ I'm a data analyst with a passion for coding and a love for education. I have a 
 
 ## My Projects:
 
-- [A Global Perspective: Factors Influencing Life Expectancy (SQL & Python)](link-to-project-1): This project explores the complex interplay of various factors impacting life expectancy across countries and continents. Through an in-depth analysis of GDP, schooling, mental health, illnesses, and other key determinants, this study sheds light on the diverse range of influences on life expectancy worldwide. By examining these factors at both the country and continental levels, this project aims to provide a comprehensive understanding of the drivers of life expectancy disparities and the implications for global health policy and practice.
-- [Project 2](link-to-project-2): Description of project 2.
-- [Project 3](link-to-project-3): Description of project 3.
+- [A Global Perspective: Factors Influencing Life Expectancy (SQL & Python)](project-1): This project explores the complex interplay of various factors impacting life expectancy across countries and continents. Through an in-depth analysis of GDP, schooling, mental health, illnesses, and other key determinants, this study sheds light on the diverse range of influences on life expectancy worldwide. By examining these factors at both the country and continental levels, this project aims to provide a comprehensive understanding of the drivers of life expectancy disparities and the implications for global health policy and practice.
+- [Project 2](project-2): Description of project 2.
+- [Project 3](project-3): Description of project 3.
 
 ## Get in Touch:
 
