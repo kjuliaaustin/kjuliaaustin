@@ -32,7 +32,7 @@ I'm a data analyst with a passion for coding and a love for education. I have a 
 ## Get in Touch:
 
 - LinkedIn: [Katharina Austin](https://www.linkedin.com/in/katharina-julia-austin-b2867812a/)
-- Portfolio: [Your Portfolio Website](link-to-portfolio)
-- Email: [kjuliaaustin@gmail.com]
+- Portfolio: [katjuliaaustin.com](katjuliaaustin.com)
+- Email: kjuliaaustin@gmail.com
 
 Feel free to reach out if you'd like to collaborate or chat about data, coding, or anything in between! 😊
